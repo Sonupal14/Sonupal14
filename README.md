@@ -1,4 +1,4 @@
-![Logo](https://github.com/Sonupal14/Sonupal14/blob/main/Github%20banner.mp4)
+![Animation ](https://github.com/Sonupal14/Sonupal14/blob/main/Github%20banner.mp4)
 <h1 align="center">Hi 👋, I'm Sonu Pal</h1>
 <h3 align="center">A passionate Softwear Engineer developer from India</h3>
 
